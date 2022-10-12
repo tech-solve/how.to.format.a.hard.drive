@@ -1,6 +1,6 @@
 # How to Format a Hard Drive?
 
-[![how to format a hard drive](redd.png)](https://github.com/tech-solve/how.to.format.a.hard.drive)
+[![how to format a hard drive](redd.png)](https://icncomputer.com/how-to-format-a-hard-drive/)
 
 
 
